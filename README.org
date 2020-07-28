@@ -1,0 +1,4 @@
+* contrasting-cytotoxic-cytostatic
+
+Source codes for /Contrasting the impact of cytotoxic and cytostatic drug therapies on tumour progression./ 2019. Anttila, J. V., Shubin, M., Cairns, J., Borse, F., Guo, Q., Mononen, T., V{\'a}zquez-Garc{\'i}a, I., Pulkkinen, O., Mustonen, V. PLoS Computational Biology. doi: 10.1371/journal.pcbi.1007493
+
